@@ -10,7 +10,7 @@ A feature flag was implemented on the logo image you initially see as you open t
 
 ## App Screenshot
 
-KDB.png
+https://github.com/mfettah0609/FF-ImageSwitch/blob/472d0beb81c0c0dbee3bf7b9eeba6e9d42b77a59/KDB.png
 
 
 
