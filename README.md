@@ -1,3 +1,20 @@
+### MTF Launchdarkly Homework Assignment 
+
+## App Description
+
+This react App is an interface representing the initial view prior to entering a site. The app illustrates an Image.
+
+## Feature Flag Implementation
+
+A feature flag was implemented on the logo image you initially see as you open the app. You are either greated with a standard react logo everyone is used to, or with an image of the greatest football player on earth.
+
+## App Screenshot
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
