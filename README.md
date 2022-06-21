@@ -2,7 +2,7 @@
 
 ## App Description
 
-This react App is an interface representing the initial view prior to entering a site. The app illustrates an Image.
+This react App is an interface representing the initial view when creating any react App. The app illustrates an Image.
 
 ## Feature Flag Implementation
 
