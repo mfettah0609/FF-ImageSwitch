@@ -17,11 +17,16 @@ https://github.com/mfettah0609/FF-ImageSwitch/blob/0bbfd2a52a57a9c014d9676302511
 
 To install the React Client SDK: 
   npm install launchdarkly-react-client-sdk
+  
 Import SDK File into app as a component allowing you to use Flags: 
   import { withLDProvider, useFlags } from 'launchdarkly-react-client-sdk'
+  
 Extract ClientSideID from Launchdarkly interface
+
 Import logo of Keving De Bruyne in App
+
 Declare ImageSwitch Variable using Flag from LD
+
 Final Piece:
   If Flag Name True use KDB Image, if False use existing image. Toggle feature flag on or off on the LD interface.
   
