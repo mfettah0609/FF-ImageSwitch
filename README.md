@@ -10,7 +10,7 @@ A feature flag was implemented on the logo image you initially see as you open t
 
 ## App Screenshot
 
-https://github.com/mfettah0609/FF-ImageSwitch/blob/472d0beb81c0c0dbee3bf7b9eeba6e9d42b77a59/KDB.png
+https://github.com/mfettah0609/FF-ImageSwitch/blob/0bbfd2a52a57a9c014d96763025119f3c66005cf/KDB1.png
 
 
 # Instructions
@@ -33,7 +33,6 @@ True
 False
 Default: False
 
-L
 
 # Getting Started with Create React App
 
