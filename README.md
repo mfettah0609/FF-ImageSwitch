@@ -6,14 +6,34 @@ This react App is an interface representing the initial view when creating any r
 
 ## Feature Flag Implementation
 
-A feature flag was implemented on the logo image you initially see as you open the app. You are either greated with a standard react logo everyone is used to, or with an image of the greatest football player on earth.
+A feature flag was implemented on the logo image you initially see as you open the app. You are either greated with a standard react logo everyone is used to, or with an image of the greatest football player on earth, depending on your needs, simply turn the toggle on or off.
 
 ## App Screenshot
 
 https://github.com/mfettah0609/FF-ImageSwitch/blob/472d0beb81c0c0dbee3bf7b9eeba6e9d42b77a59/KDB.png
 
 
+# Instructions
 
+To install the React Client SDK: 
+  npm install launchdarkly-react-client-sdk
+Import SDK File into app as a component allowing you to use Flags: 
+  import { withLDProvider, useFlags } from 'launchdarkly-react-client-sdk'
+Extract ClientSideID from Launchdarkly interface
+Import logo of Keving De Bruyne in App
+Declare ImageSwitch Variable using Flag from LD
+Final Piece:
+  If Flag Name True use KDB Image, if False use existing image. Toggle feature flag on or off on the LD interface.
+  
+Type: Boolean
+
+Options:
+
+True
+False
+Default: False
+
+L
 
 # Getting Started with Create React App
 
